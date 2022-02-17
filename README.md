@@ -11,7 +11,8 @@ Add a weather description to the weather data already retrieved in this module. 
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date (change or delete as needed)
+### Sub-heading
+![Vacation Search](https://github.com/lnharvin/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Analysis of Outcomes Based on Goals (change or delete as needed)
 
