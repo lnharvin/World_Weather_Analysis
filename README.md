@@ -11,8 +11,12 @@ Add a weather description to the weather data already retrieved in this module. 
 
 ## Analysis and Challenges
 
-### Sub-heading
+### Google Maps
 ![Vacation Search](https://github.com/lnharvin/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+
+![Travel Map](https://github.com/lnharvin/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+![Cities of the Itinerary](https://github.com/lnharvin/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ### Analysis of Outcomes Based on Goals (change or delete as needed)
 
